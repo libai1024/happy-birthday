@@ -2,9 +2,9 @@
   "greeting": "你好鸭～",
   "name": "周颖同学",
   "greetingText": "很高兴能和你成为同学",
-  "wishText": "希望一切安好，;)",
-  "imagePath": "img/lydia2.png",
-  "text1": "今天是你的生日鸭～:D",
+  "wishText": "",
+  "imagePath": "img/sue.png",
+  "text1": "今天是你的生日鸭～  :D",
   "textInChatBox": "祝你生日快乐!! 耶耶耶耶耶!好多美好的祝愿想对你说 .......",
   "sendButtonLabel": "发送",
   "text2": "这正是我想做的...",
@@ -16,8 +16,8 @@
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
-  "wishHeading": "Happy Birthday，Your Highness!\n生日快乐，周颖同学～",
+  "wishHeading": "生日快乐，周颖同学～",
   "outroText": "嘿嘿，现在回来告诉我你喜不喜欢this。",
-  "replayText": "OR 这个按钮 带我们重新来一次鸭～",
+  "replayText": "OR 【这个按钮】 带我们重新来一次鸭～",
   "outroSmiley": ":)"
 }
